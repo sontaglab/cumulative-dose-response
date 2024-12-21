@@ -6,4 +6,4 @@ For Figures 4 and 5 (examples of simulations) see cdr_plot_fig4.m and cdr_plot_f
 
 For Figure 6 (separate experiments cDR and DR)
 
-Python code is provvided for figures 8,9 and 10.
+Python code is provided for figures 8,9 and 10.
